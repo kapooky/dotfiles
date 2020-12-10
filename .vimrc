@@ -1,0 +1,1 @@
+/home/tariq/dotfiles/.vimrc
